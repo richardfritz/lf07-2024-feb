@@ -1,7 +1,7 @@
 # Anforderungsanalyse Mini-Projekt
 
 ## Eure Aufgaben
-1. Erstellt euch einen Github-Account mit eurer gfn.education EMailadresse
+1. Erstellt euch einen Github-Account mit eurer gfn.education E-Mailadresse
 2. Installiert Github Desktop 
 3. Klont dieses Repository auf euren Laptop
 4. Wechselt in einen eigenen Branch
