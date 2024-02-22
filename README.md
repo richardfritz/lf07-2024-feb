@@ -14,5 +14,11 @@
 11. -----------
 12. eiener Text
 13. -----------
+<<<<<<< Updated upstream
 14. Hallo
-hallo welt!
+hallo welt!hallo welt!
+=======
+14. KA
+kaa
+15. AAA-aaa-aaaaaaaaaaaaaaaaaa
+>>>>>>> Stashed changes
