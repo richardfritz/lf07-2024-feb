@@ -8,13 +8,28 @@
 7. Ladet die Datei in euren Branch hoch
 8. Merged die Datei in den Main-Branch
 9. Pullt den neuen Main-Branch
+unterschrift123
+10. bundesliga manager professional
+
 10. nicht anstößige Zeile
 11. -----------
-<<<<<<< Updated upstream
+
 12. Was Geht Github
 13. -----------
-=======
+
 12. Katze macht miauuu
 
 
->>>>>>> Stashed changes
+
+
+hallo welt!
+immer noch keine Feierabend 
+Letzte Pause?
+KA
+mmmmmmmmmmmmmmmmmmmmmmm
+
+und von Handy 
+
+von pc
+
+
