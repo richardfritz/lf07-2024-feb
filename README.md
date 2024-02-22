@@ -19,3 +19,5 @@ immer noch keine Feierabend
 Letzte Pause?
 KA
 mmmmmmmmmmmmmmmmmmmmmmm
+
+und von Handy 
