@@ -1,6 +1,4 @@
-# Github-Übung
-
-## Eure Aufgaben
+# Github-Übunglf07-2024-feben
 1. Erstellt euch einen Github-Account mit eurer gfn.education E-Mailadresse
 2. Installiert Github Desktop (oder einen anderen git-client, ich will euch nur nicht durch die Konsole quälen)
 3. Klont dieses Repository auf euren Laptop
@@ -12,5 +10,11 @@
 9. Pullt den neuen Main-Branch
 10. nicht anstößige Zeile
 11. -----------
+<<<<<<< Updated upstream
 12. Was Geht Github
 13. -----------
+=======
+12. Katze macht miauuu
+
+
+>>>>>>> Stashed changes
