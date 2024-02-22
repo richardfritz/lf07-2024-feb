@@ -10,6 +10,9 @@
 7. Ladet die Datei in euren Branch hoch
 8. Merged die Datei in den Main-Branch
 9. Pullt den neuen Main-Branch
+unterschrift123
+10. bundesliga manager professional
+
 10. nicht anstößige Zeile
 11. -----------
 12. eiener Text
@@ -24,4 +27,10 @@ KA
 mmmmmmmmmmmmmmmmmmmmmmm
 
 und von Handy 
+<<<<<<< HEAD
 >>>>>>> 20c4b3aaec74eb48af25295cf90fab4a37613bc2
+=======
+
+von pc
+
+>>>>>>> 5a96cbbfac93ecf1415af9ece1b73813b96e3246
