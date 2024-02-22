@@ -1,6 +1,4 @@
-# Github-Übung
-
-## Eure Aufgaben
+# Github-Übunglf07-2024-feben
 1. Erstellt euch einen Github-Account mit eurer gfn.education E-Mailadresse
 2. Installiert Github Desktop (oder einen anderen git-client, ich will euch nur nicht durch die Konsole quälen)
 3. Klont dieses Repository auf euren Laptop
@@ -14,12 +12,21 @@ unterschrift123
 10. bundesliga manager professional
 
 10. nicht anstößige Zeile
-11. -----------
-12. eiener Text
-13. -----------
-<<<<<<< HEAD
+11. 
+
+12. Was Geht Github
+13. 
+
 14. Feierabend
-=======
+
+
+
+12. Katze macht miauuu
+
+
+
+
+
 hallo welt!
 immer noch keine Feierabend 
 Letzte Pause?
@@ -27,10 +34,8 @@ KA
 mmmmmmmmmmmmmmmmmmmmmmm
 
 und von Handy 
-<<<<<<< HEAD
->>>>>>> 20c4b3aaec74eb48af25295cf90fab4a37613bc2
-=======
+
+
 
 von pc
 
->>>>>>> 5a96cbbfac93ecf1415af9ece1b73813b96e3246
