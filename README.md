@@ -14,6 +14,14 @@
 11. -----------
 12. eiener Text
 13. -----------
+<<<<<<< HEAD
 14. Feierabend
-noch nocht
+=======
+hallo welt!
+immer noch keine Feierabend 
+Letzte Pause?
+KA
+mmmmmmmmmmmmmmmmmmmmmmm
 
+und von Handy 
+>>>>>>> 20c4b3aaec74eb48af25295cf90fab4a37613bc2
