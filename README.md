@@ -16,7 +16,7 @@
 13. -----------
 <<<<<<< Updated upstream
 14. Hallo
-hallo welt!hallo welt!
+hallo welt!
 =======
 14. KA
 kaa
