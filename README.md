@@ -10,3 +10,4 @@
 7. Ladet die Datei in euren Branch hoch
 8. Merged die Datei in den Main-Branch
 9. Pullt den neuen Main-Branch
+10. nicht anstößige Zeile
